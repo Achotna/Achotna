@@ -30,7 +30,6 @@ Your personal receipt analysis is ready in no time!
 - Data visualization
 - Receipt processing
 
-𓆝 𓆟 𓆞 𓆝 𓆟𓆝 𓆟 𓆞 𓆝 𓆟𓆝 𓆟 𓆞 𓆝 𓆟𓆝 𓆟 𓆞 𓆝 𓆟𓆝 𓆟 𓆞 𓆝 𓆟𓆝 𓆟 𓆞 𓆝 𓆟𓆝 𓆟 𓆞 𓆝 𓆟
 
 ## ⋆˚꩜｡ּ Skills learned through those projects ⋆˚꩜｡ּ
 
@@ -47,10 +46,9 @@ Your personal receipt analysis is ready in no time!
 - Object-Oriented Programming
 - Software Engineering
 
-𓆝 𓆟 𓆞 𓆝 𓆟𓆝 𓆟 𓆞 𓆝 𓆟𓆝 𓆟 𓆞 𓆝 𓆟𓆝 𓆟 𓆞 𓆝 𓆟𓆝 𓆟 𓆞 𓆝 𓆟𓆝 𓆟 𓆞 𓆝 𓆟𓆝 𓆟 𓆞 𓆝 𓆟
 
 ##《★~ Feel free to connect with me ~★ 》
 
 LinkedIn: [Antonina Savchenko](https://www.linkedin.com/in/antonina-savchenko-3b6863318/)
 
-Email: achotna@gmail.com
+Email: achotna@gmail.com 
