@@ -47,7 +47,7 @@ Your personal receipt analysis is ready in no time!
 - Software Engineering
 
 
-##《★~ Feel free to connect with me ~★ 》
+## ★~ Feel free to connect with me ~★
 
 LinkedIn: [Antonina Savchenko](https://www.linkedin.com/in/antonina-savchenko-3b6863318/)
 
