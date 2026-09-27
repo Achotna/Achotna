@@ -41,6 +41,6 @@ A receipt-analysis web application developed for the Trophées NSI competition.
 
 ## 📫 Connect with me
 
-LinkedIn: [Antonina Savchenko]((https://www.linkedin.com/in/antonina-savchenko-3b6863318/))
+LinkedIn: [Antonina Savchenko](https://www.linkedin.com/in/antonina-savchenko-3b6863318/)
 
 Email: achotna@gmail.com
