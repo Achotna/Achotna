@@ -12,11 +12,14 @@ A little bonus: you can download the generated audio track and practice on the g
 
 ᯓ★ Zoom in
 - Python / Flask
-- OpenAI API
-- Google Cloud Text-to-Speech
+- Ollama + Qwen3 for AI-generated vocabulary
+- Piper TTS for local text-to-speech
 - SQLite / SQLAlchemy
-- Excel vocabulary import
+- Excel vocabulary import with pandas / openpyxl
+- Audio processing with pydub / FFmpeg
+- User authentication with Flask-Login / Flask-Bcrypt
 - Custom repetitions, pauses and voices
+- Local open-source AI integration
 
 ### 🧾 Scanify
 
@@ -33,11 +36,15 @@ Your personal receipt analysis is ready in no time!
 
 ## ⋆˚꩜｡ּ Skills learned through those projects ⋆˚꩜｡ּ
 
-**Languages:** Python, Java
-**Web:** Flask, HTML, CSS  
+**Languages:** Python, Java  
+**Web:** Flask, HTML, CSS, basic JavaScript  
 **Databases:** SQLite, SQLAlchemy  
-**Tools:** Git, GitHub  
-**AI / APIs:** OpenAI API, Google Cloud Text-to-Speech
+**Tools:** Git, GitHub, virtual environments, FFmpeg  
+**AI:** Open-AI, Ollama, Qwen3, local LLM integration  
+**Audio:** Piper TTS, pydub, audio generation and processing  
+**Data:** pandas, openpyxl, Excel processing  
+**Computer Vision / OCR:** Tesseract OCR, receipt processing  
+**Backend:** Authentication, database integration, file uploads, API/local-service integration  
 
 ## ⋆˚꩜｡ּ Currently learning ⋆˚꩜｡ּ
 
